@@ -1,0 +1,32 @@
+[class*="col-"] {
+    height: 3em;
+    /* border: 1px solid black; */
+}
+
+[class*="off"] {
+    height: 3em;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: #F92033;
+}
+
+.blue {
+    background-color: #142096;
+}
+
+.bottone {
+    background-color: #FEEE49;
+}
+
+.pelle {
+    background-color: #FDC98D;
+}
+
+.brown {
+    background-color: #643700;
+}
